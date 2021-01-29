@@ -1,4 +1,4 @@
-<div style="text-align: center; padding: 2rem 0;">
+<div align="center">
 Welcome to me 💖
 
 ** <strong>Share is best - PHP, NodeJs, Wordpress contact me :"></strong> **
