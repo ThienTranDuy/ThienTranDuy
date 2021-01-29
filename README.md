@@ -15,7 +15,7 @@ Welcome to me 💖
 <img src="https://img.shields.io/badge/website-www.tranduythien.net-ff68b4"/>
 </a>
 <a href="https://codepen.io/mariohandsome" target="_blank">
-<img src="https://img.shields.io/badge/website-www.tranduythien.net-ff68b4"/>
+<img src="https://img.shields.io/badge/Codepen-mariohandsome-lightgrey"/>
 </a>
 
 ![](https://komarev.com/ghpvc/?username=mariohandsome)
