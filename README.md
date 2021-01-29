@@ -11,7 +11,7 @@ Welcome to me 💖
 <a href="https://www.facebook.com/tranduythiendotnet/" target="_blank">
 <img src="https://img.shields.io/badge/FB-tranduythiendotnet-blue"/>
 </a>
-<a href="https://wwww,tranduythien.net/" target="_blank">
+<a href="https://wwww.tranduythien.net/" target="_blank">
 <img src="https://img.shields.io/badge/website-www.tranduythien.net-ff68b4"/>
 </a>
 <a href="https://codepen.io/mariohandsome" target="_blank">
