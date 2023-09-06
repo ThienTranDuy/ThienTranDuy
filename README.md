@@ -3,10 +3,10 @@ Welcome to me 💖
 
 ** <strong>Share is best - PHP, NodeJs, Wordpress contact me :"></strong> **
 
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=mariohandsome&show_icons=true&theme=cobalt&count_private=true)](https://mariohandsome.github.io/)
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=ThienTranDuy&show_icons=true&theme=cobalt&count_private=true)](https://ThienTranDuy.github.io/)
 
-<a href="https://gist.github.com/mariohandsome" target="_blank">
-<img src=https://img.shields.io/badge/Gits-mariohandsome-brightgreen"/>
+<a href="https://gist.github.com/ThienTranDuy" target="_blank">
+<img src=https://img.shields.io/badge/Gits-ThienTranDuy-brightgreen"/>
 </a>
 <a href="https://www.facebook.com/tranduythiendotnet/" target="_blank">
 <img src="https://img.shields.io/badge/FB-tranduythiendotnet-blue"/>
