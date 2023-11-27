@@ -2,8 +2,10 @@
 Welcome to me 💖
 
 ** <strong>Share is best - PHP, NodeJs, Wordpress contact me :"></strong> **
-
+<div style="display: flex">
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=ThienTranDuy&show_icons=true&theme=cobalt&count_private=true)](https://ThienTranDuy.github.io/)
+<a href="https://app.daily.dev/tranduythien"><img src="https://api.daily.dev/devcards/dbd7c8d6f5a1411aa0e144f535ca8182.png?r=ink" width="400" alt="Trần Duy Thiên's Dev Card"/></a>
+</div>
 
 <a href="https://gist.github.com/ThienTranDuy" target="_blank">
 <img src=https://img.shields.io/badge/Gits-ThienTranDuy-brightgreen"/>
@@ -20,5 +22,4 @@ Welcome to me 💖
 
 ![](https://komarev.com/ghpvc/?username=mariohandsome)
 
-<a href="https://app.daily.dev/tranduythien"><img src="https://api.daily.dev/devcards/dbd7c8d6f5a1411aa0e144f535ca8182.png?r=ink" width="400" alt="Trần Duy Thiên's Dev Card"/></a>
 </div>
