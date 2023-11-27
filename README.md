@@ -19,4 +19,6 @@ Welcome to me 💖
 </a>
 
 ![](https://komarev.com/ghpvc/?username=mariohandsome)
+
+<a href="https://app.daily.dev/tranduythien"><img src="https://api.daily.dev/devcards/dbd7c8d6f5a1411aa0e144f535ca8182.png?r=ink" width="400" alt="Trần Duy Thiên's Dev Card"/></a>
 </div>
